@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Library
+comment0.text=\r\n\ This\ is\ the\ Library\ class,\ it\ extends\ Item.\ It\ allows\ you\r\n\ to\ create\ a\ Library\ and\ add\ items\ to\ it\ (Book\ and\ CompactDisk).\r\n
+comment1.params=
+comment1.target=Library()
+comment2.params=
+comment2.target=java.util.List\ getRecords()
+comment3.params=rec
+comment3.target=void\ addRecord(Item)
+comment4.params=name
+comment4.target=Item\ findItem(java.lang.String)
+comment5.params=name
+comment5.target=int\ findItemIndex(java.lang.String)
+comment6.params=name
+comment6.target=void\ removeItem(java.lang.String)
+comment7.params=index
+comment7.target=void\ removeItem(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

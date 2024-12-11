@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Processor
+comment0.text=\r\n\ This\ is\ the\ Processor\ interface.\r\n
+comment1.params=param
+comment1.target=java.lang.Object\ process(java.lang.Object)
+numComments=2

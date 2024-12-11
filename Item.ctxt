@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ This\ is\ the\ Item\ class.\r\n
+comment1.params=item
+comment1.target=Item(Titled)
+comment2.params=
+comment2.target=Titled\ getItem()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
